@@ -1,0 +1,278 @@
+!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>AV Spicy Industry | Spice Manufacturer</title>
+
+  <meta name="description" content="AV Spicy Industry is a spice manufacturing company in Barh, Patna producing pure and hygienic spices. Wholesale & Retail available." />
+
+
+  <style>
+
+    body {
+
+      margin: 0;
+
+      font-family: Arial, sans-serif;
+
+      background: #fff7e6;
+
+      color: #333;
+
+    }
+
+    header {
+
+      background: #b30000;
+
+      color: #fff;
+
+      padding: 30px 20px;
+
+      text-align: center;
+
+    }
+
+    header h1 {
+
+      margin: 0;
+
+      font-size: 38px;
+
+    }
+
+    header p {
+
+      margin-top: 10px;
+
+      font-size: 18px;
+
+    }
+
+    section {
+
+      padding: 40px 20px;
+
+      max-width: 1100px;
+
+      margin: auto;
+
+    }
+
+    h2 {
+
+      color: #b30000;
+
+      margin-bottom: 15px;
+
+    }
+
+    .highlight {
+
+      background: #ffe0b3;
+
+      border-radius: 10px;
+
+    }
+
+    .grid {
+
+      display: grid;
+
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+
+      gap: 20px;
+
+    }
+
+    .box {
+
+      background: #fff;
+
+      padding: 20px;
+
+      border-radius: 10px;
+
+      text-align: center;
+
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+
+      font-weight: bold;
+
+    }
+
+    footer {
+
+      background: #333;
+
+      color: #fff;
+
+      text-align: center;
+
+      padding: 20px;
+
+    }
+
+    .contact {
+
+      font-size: 18px;
+
+      line-height: 1.8;
+
+    }
+
+  </style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+  <h1>AV Spicy Industry</h1>
+
+  <p>
+
+    Purity & Taste You Can Trust<br>
+
+    शुद्धता और स्वाद की पहचान
+
+  </p>
+
+</header>
+
+
+<section class="highlight">
+
+  <h2>Welcome | स्वागत है</h2>
+
+  <p>
+
+    We are a spice manufacturing company providing <strong>pure, hygienic and high-quality spices</strong>.<br>
+
+    हम शुद्ध, मिलावट रहित और उच्च गुणवत्ता वाले मसालों का निर्माण करते हैं।
+
+  </p>
+
+</section>
+
+
+<section>
+
+  <h2>About Us | हमारे बारे में</h2>
+
+  <p>
+
+    <strong>AV Spicy Industry</strong> is based in Madatpur, Barh, Patna (Bihar).  
+
+    We manufacture spices using modern machines while maintaining traditional taste.
+
+    <br><br>
+
+    AV Spicy Industry मदतपुर, बाढ़, पटना (बिहार) में स्थित एक मसाला निर्माण इकाई है।  
+
+    हम आधुनिक मशीनों के साथ पारंपरिक स्वाद को बनाए रखते हुए मसाले तैयार करते हैं।
+
+  </p>
+
+</section>
+
+
+<section>
+
+  <h2>Our Products | हमारे उत्पाद</h2>
+
+  <div class="grid">
+
+    <div class="box">Red Chili Powder<br>लाल मिर्च पाउडर</div>
+
+    <div class="box">Turmeric Powder<br>हल्दी पाउडर</div>
+
+    <div class="box">Coriander Powder<br>धनिया पाउडर</div>
+
+    <div class="box">Garam Masala<br>गरम मसाला</div>
+
+    <div class="box">Special Spice Blends<br>स्पेशल मसाले</div>
+
+  </div>
+
+</section>
+
+
+<section>
+
+  <h2>Manufacturing Unit | निर्माण इकाई</h2>
+
+  <p>
+
+    We use large modern machines for cleaning, grinding, blending and packing spices.  
+
+    Hygiene and quality control are our top priority.
+
+    <br><br>
+
+    हम बड़े और आधुनिक मशीनों द्वारा मसालों की सफाई, पिसाई, मिश्रण और पैकिंग करते हैं।
+
+  </p>
+
+</section>
+
+
+<section class="highlight">
+
+  <h2>Why Choose Us | हमें क्यों चुनें</h2>
+
+  <ul>
+
+    <li>100% Pure & Natural | 100% शुद्ध</li>
+
+    <li>No Adulteration | बिना मिलावट</li>
+
+    <li>Better Aroma & Taste | बेहतरीन खुशबू और स्वाद</li>
+
+    <li>Wholesale & Retail Supply</li>
+
+  </ul>
+
+</section>
+
+
+<section>
+
+  <h2>Contact Us | संपर्क करें</h2>
+
+  <p class="contact">
+
+    📍 <strong>Address:</strong><br>
+
+    Madatpur, Barh, Patna – 803213
+
+    <br><br>
+
+    📞 <strong>Phone:</strong><br>
+
+    8210293439 | 98011 29887
+
+  </p>
+
+</section>
+
+
+<footer>
+
+  © 2026 AV Spicy Industry. All Rights Reserved.
+
+</footer>
+
+
+</body>
+
+</html>
